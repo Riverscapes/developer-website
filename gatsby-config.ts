@@ -23,7 +23,21 @@ module.exports = {
       {
         title: 'Standards',
         url: '/standards',
-        items: [],
+        items: [
+          {
+            title: 'Introduction to Riverscapes Standards',
+            url: '/standards',
+          },
+
+          {
+            title: 'The Riverscapes Project Standard',
+            url: '',
+          }
+          {
+            title: 'Getting Started With Projects & Data',
+            url: '/standards/projects/getting-started',
+          }
+        ],
       },
       {
         title: 'Dev Tools',
